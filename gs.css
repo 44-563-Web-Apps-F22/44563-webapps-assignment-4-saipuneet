@@ -12,3 +12,33 @@ font-size: 40px; color: black;}
 .ALL{font-style:italic;color:darkblue;}
 .PRI{font-style: italic;color:red;}
 .BAL{font-style: italic;color:orange;}
+
+table{
+    border-style: solid;
+}
+th,td{
+    border:1px solid rgba(25, 134, 61, 0.409)
+}
+th{
+    color:rgba(40, 25, 134, 0.409)
+}
+td{
+    color:rgba(98, 44, 34, 0.409)
+}
+tr:nth-child(even){
+    background-color: rgba(40, 25, 134, 0.409);
+}
+td{
+    text-align: center;
+}
+h,td{
+    width: 130px;
+    padding: 2px,2px,2px,2px;
+    margin: 40px,20px,50px,0px;
+    background-color: rgba(159, 132, 82, 0.409);
+    border-top: 3px solid rgba(33, 36, 121, 0.409);
+    border-right:4px dashed rgba(98, 34, 86, 0.409);
+    border-bottom:5px double rgba(125, 18, 127, 0.409);
+    border-left:15px inset rgba(40, 25, 134, 0.409);
+}
+
