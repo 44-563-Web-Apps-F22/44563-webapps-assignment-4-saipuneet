@@ -12,6 +12,7 @@ font-size: 40px; color: black;}
 .ALL{font-style:italic;color:darkblue;}
 .PRI{font-style: italic;color:red;}
 .BAL{font-style: italic;color:orange;}
+.SAC{font-style: italic;color:red;}
 
 table{
     border-style: solid;
@@ -41,4 +42,5 @@ h,td{
     border-bottom:5px double rgba(125, 18, 127, 0.409);
     border-left:15px inset rgba(40, 25, 134, 0.409);
 }
+
 
