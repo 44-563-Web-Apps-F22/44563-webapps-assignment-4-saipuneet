@@ -7,8 +7,8 @@
 .name{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 font-size: 40px; color: black;}   
 .direction:hover{background-color: brown;color:blue}
-.CHO{font-style: italic;color:azure}
-.MEL{font-style: normal;color:orange}
-.ALL{font-style:italic;color:darkblue}
-.PRI{font-style: italic;color:chocolate}
-.BAL{font-style: italic;color:darkblue}
+.CHO{font-style: italic;color:orange;}
+.MEL{font-style: normal;color:orange;}
+.ALL{font-style:italic;color:darkblue;}
+.PRI{font-style: italic;color:red;}
+.BAL{font-style: italic;color:red;}
