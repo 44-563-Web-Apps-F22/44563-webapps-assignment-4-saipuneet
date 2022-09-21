@@ -1,0 +1,14 @@
+.speech { font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;color:black;}
+.song{font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;color:black}
+.direction{font-family:'Courier New', Courier, monospace; 
+    font-size:10px;color:black;background-color: lightgreen;}
+.name{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 40px; color: black;}   
+.direction:hover{background-color: brown;color:blue}
+.CHO{font-style: italic;color:azure}
+.MEL{font-style: normal;color:orange}
+.ALL{font-style:italic;color:darkblue}
+.PRI{font-style: italic;color:chocolate}
+.BAL{font-style: italic;color:darkblue}
