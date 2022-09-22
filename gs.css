@@ -46,12 +46,45 @@ h,td{
 .SAC{
  text-shadow: 3px 3px 3px red;
 }
+.SAC:hover{
+    background-color: brown;
+    text-shadow: 3px 3px 3px red;
+   }
 .PRI
 {
+    
     text-shadow: 2px 2px 2px orange;
 }
 
+.PRI:hover
+{
+    background-color: yellow;
+    text-shadow: 2px 2px 2px orange;
+}
 .material-icons{
     font: size 10px;
     color:rgba(214, 4, 102, 0.592);
 }
+ul {
+    list-style-type: none;
+    margin: 7px;
+    padding: 2 px;
+    overflow: hidden;
+    background-color: rgb(22, 166, 42);
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: red;
+    text-align: center;
+    padding: 13px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color:orange;
+  }
