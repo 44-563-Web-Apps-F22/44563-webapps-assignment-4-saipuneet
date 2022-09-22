@@ -51,3 +51,7 @@ h,td{
     text-shadow: 2px 2px 2px orange;
 }
 
+.material-icons{
+    font: size 10px;
+    color:rgba(214, 4, 102, 0.592);
+}
